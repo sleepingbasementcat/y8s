@@ -29,7 +29,7 @@ url: "https://sleepingbasementcat.github.io/y8s"
 #  username: github_username # change to your GitHub username
 
 social:
-  fediverse-handle: y8s #adds Mastodon handle
+  fediverse-handle: "@y8s@mastodon.social"  #adds Mastodon handle
 
 social:
   # Change to your full name.
