@@ -1,7 +1,11 @@
 ---
 title: I Have A Writing Problem 
 date: 2026-07-02 
-tags: writing, poetry, overwhelm, embarrassment
+tags: 
+    - writing
+    - poetry
+    - overwhelm
+    - embarrassment
 ---
 
 ### I haven't really written much of anything since 2013.

@@ -1,7 +1,10 @@
 ---
 title: Getting Some Steps In
 date: 2026-07-25
-tags: writing, reading, taking-time
+tags: 
+    - writing
+    - reading
+    - taking-time
 ---
 
 **I'm posting this a little later than I'd like**, since I had committed to every Thursday. The idea for this came to me late, and I only started writing it out on Thursday evening.

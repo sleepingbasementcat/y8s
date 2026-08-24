@@ -1,7 +1,10 @@
 ---
 title: "What does it mean to be from somewhere?"
 date: 2026-06-18
-tags: [quarterlies, brick, thoughts]
+tags: 
+    - quarterlies
+    - brick
+    - thoughts
 ---
 
 ### Recently, I read <u>last</u> summer's Brick literary journal - [Issue \#115](https://brickmag.com/product/brick-115/).

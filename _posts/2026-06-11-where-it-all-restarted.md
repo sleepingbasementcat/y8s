@@ -1,7 +1,10 @@
 ---
 title: "Where it all restarted"
 date: 2026-06-11
-tags: [introduction, origins, I'm back]
+tags: 
+    - introduction
+    - origins
+    - I'm back
 ---
 
 ### I wanted to start writing again.

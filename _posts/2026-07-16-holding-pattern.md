@@ -1,7 +1,11 @@
 ---
 title: Holding Pattern
 date: 2026-07-16
-tags: writing, reading, music, inspiration
+tags: 
+    - writing
+    - reading
+    - music
+    - inspiration
 ---
 ### This week has been quite a lot
 

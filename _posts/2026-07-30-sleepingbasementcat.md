@@ -1,7 +1,11 @@
 ---
 title: The Cat Sleeps...Still
 date: 2026-07-30
-tags: music, cats, ambient, tapes
+tags: 
+    - music
+    - cats
+    - ambient
+    - tapes
 ---
 
 **I once went by the handle sleepingbasementcat**. I took the name after the cat we had, once found sleeping in the basement of our house, looking peaceful and adorable. I used the handle for some of the music I was making at the time. I was messing around with tapes (yes, cassette tapes), sampling, mangling, chopping and screwing up sounds and passing them on to a friend who would layer more stuff on top, or make something for the other side of the tape.

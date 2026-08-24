@@ -1,7 +1,10 @@
 ---
 title: I Have A Reading Problem
 date: 2026-06-25
-tags: [reading, books, overwhelm]
+tags: 
+    - reading
+    - books
+    - overwhelm
 ---
 ### I collect faster than I read.
 
