@@ -25,6 +25,8 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+_posts/template-rename-and-appendMD
+_posts/_draft*
 
 # Hidden system files
 *~
